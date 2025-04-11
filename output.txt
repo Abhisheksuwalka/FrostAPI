@@ -1,0 +1,252 @@
+~/SEM-6/vayumithra/frost-api-data ❯ python try_final.py                                                                                                                                                  17:28:17
+Sample Data fetched successfully
+- - - - - wind_from_direction - - - - -
+Failed to fetch data: 412 for wind_from_direction, 2000
+Failed to fetch data: 412 for wind_from_direction, 2001
+Failed to fetch data: 412 for wind_from_direction, 2002
+Failed to fetch data: 412 for wind_from_direction, 2003
+Failed to fetch data: 412 for wind_from_direction, 2004
+Failed to fetch data: 412 for wind_from_direction, 2005
+Failed to fetch data: 412 for wind_from_direction, 2006
+Failed to fetch data: 412 for wind_from_direction, 2007
+Failed to fetch data: 412 for wind_from_direction, 2008
+Failed to fetch data: 412 for wind_from_direction, 2009
+Retrieved data for wind_from_direction, 2010
+Retrieved data for wind_from_direction, 2011
+Retrieved data for wind_from_direction, 2012
+Retrieved data for wind_from_direction, 2013
+Failed to fetch data: 403 for wind_from_direction, 2014
+Failed to fetch data: 403 for wind_from_direction, 2015
+Failed to fetch data: 403 for wind_from_direction, 2016
+Failed to fetch data: 403 for wind_from_direction, 2017
+Failed to fetch data: 403 for wind_from_direction, 2018
+Failed to fetch data: 403 for wind_from_direction, 2019
+Failed to fetch data: 403 for wind_from_direction, 2020
+Failed to fetch data: 403 for wind_from_direction, 2021
+Failed to fetch data: 403 for wind_from_direction, 2022
+Failed to fetch data: 403 for wind_from_direction, 2023
+- - - - - air_pressure_at_sea_level - - - - -
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2000
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2001
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2002
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2003
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2004
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2005
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2006
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2007
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2008
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2009
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2010
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2011
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2012
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2013
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2014
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2015
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2016
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2017
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2018
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2019
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2020
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2021
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2022
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2023
+- - - - - max(wind_from_direction_of_gust PT10M) - - - - -
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2000
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2001
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2002
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2003
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2004
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2005
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2006
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2007
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2008
+Failed to fetch data: 412 for max(wind_from_direction_of_gust PT10M), 2009
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2010
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2011
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2012
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2013
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2014
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2015
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2016
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2017
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2018
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2019
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2020
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2021
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2022
+Retrieved data for max(wind_from_direction_of_gust PT10M), 2023
+- - - - - max(wind_speed_of_gust PT10M) - - - - -
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2000
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2001
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2002
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2003
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2004
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2005
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2006
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2007
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2008
+Failed to fetch data: 412 for max(wind_speed_of_gust PT10M), 2009
+Retrieved data for max(wind_speed_of_gust PT10M), 2010
+Retrieved data for max(wind_speed_of_gust PT10M), 2011
+Retrieved data for max(wind_speed_of_gust PT10M), 2012
+Retrieved data for max(wind_speed_of_gust PT10M), 2013
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2014
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2015
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2016
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2017
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2018
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2019
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2020
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2021
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2022
+Failed to fetch data: 403 for max(wind_speed_of_gust PT10M), 2023
+- - - - - dew_point_temperature - - - - -
+Failed to fetch data: 412 for dew_point_temperature, 2000
+Failed to fetch data: 412 for dew_point_temperature, 2001
+Failed to fetch data: 412 for dew_point_temperature, 2002
+Failed to fetch data: 412 for dew_point_temperature, 2003
+Failed to fetch data: 412 for dew_point_temperature, 2004
+Failed to fetch data: 412 for dew_point_temperature, 2005
+Failed to fetch data: 412 for dew_point_temperature, 2006
+Failed to fetch data: 412 for dew_point_temperature, 2007
+Failed to fetch data: 412 for dew_point_temperature, 2008
+Failed to fetch data: 412 for dew_point_temperature, 2009
+Retrieved data for dew_point_temperature, 2010
+Retrieved data for dew_point_temperature, 2011
+Retrieved data for dew_point_temperature, 2012
+Retrieved data for dew_point_temperature, 2013
+Failed to fetch data: 403 for dew_point_temperature, 2014
+Failed to fetch data: 403 for dew_point_temperature, 2015
+Failed to fetch data: 403 for dew_point_temperature, 2016
+Failed to fetch data: 403 for dew_point_temperature, 2017
+Failed to fetch data: 403 for dew_point_temperature, 2018
+Failed to fetch data: 403 for dew_point_temperature, 2019
+Failed to fetch data: 403 for dew_point_temperature, 2020
+Failed to fetch data: 403 for dew_point_temperature, 2021
+Failed to fetch data: 403 for dew_point_temperature, 2022
+Failed to fetch data: 403 for dew_point_temperature, 2023
+- - - - - air_pressure_at_sea_level - - - - -
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2000
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2001
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2002
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2003
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2004
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2005
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2006
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2007
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2008
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2009
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2010
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2011
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2012
+Failed to fetch data: 412 for air_pressure_at_sea_level, 2013
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2014
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2015
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2016
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2017
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2018
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2019
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2020
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2021
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2022
+Failed to fetch data: 403 for air_pressure_at_sea_level, 2023
+- - - - - wind_from_direction - - - - -
+Failed to fetch data: 412 for wind_from_direction, 2000
+Failed to fetch data: 412 for wind_from_direction, 2001
+Failed to fetch data: 412 for wind_from_direction, 2002
+Failed to fetch data: 412 for wind_from_direction, 2003
+Failed to fetch data: 412 for wind_from_direction, 2004
+Failed to fetch data: 412 for wind_from_direction, 2005
+Failed to fetch data: 412 for wind_from_direction, 2006
+Failed to fetch data: 412 for wind_from_direction, 2007
+Failed to fetch data: 412 for wind_from_direction, 2008
+Failed to fetch data: 412 for wind_from_direction, 2009
+Retrieved data for wind_from_direction, 2010
+Retrieved data for wind_from_direction, 2011
+Retrieved data for wind_from_direction, 2012
+Retrieved data for wind_from_direction, 2013
+Failed to fetch data: 403 for wind_from_direction, 2014
+Failed to fetch data: 403 for wind_from_direction, 2015
+Failed to fetch data: 403 for wind_from_direction, 2016
+Failed to fetch data: 403 for wind_from_direction, 2017
+Failed to fetch data: 403 for wind_from_direction, 2018
+Failed to fetch data: 403 for wind_from_direction, 2019
+Failed to fetch data: 403 for wind_from_direction, 2020
+Failed to fetch data: 403 for wind_from_direction, 2021
+Failed to fetch data: 403 for wind_from_direction, 2022
+Failed to fetch data: 403 for wind_from_direction, 2023
+- - - - - wind_speed - - - - -
+Failed to fetch data: 412 for wind_speed, 2000
+Failed to fetch data: 412 for wind_speed, 2001
+Failed to fetch data: 412 for wind_speed, 2002
+Failed to fetch data: 412 for wind_speed, 2003
+Failed to fetch data: 412 for wind_speed, 2004
+Failed to fetch data: 412 for wind_speed, 2005
+Failed to fetch data: 412 for wind_speed, 2006
+Failed to fetch data: 412 for wind_speed, 2007
+Failed to fetch data: 412 for wind_speed, 2008
+Failed to fetch data: 412 for wind_speed, 2009
+Retrieved data for wind_speed, 2010
+Retrieved data for wind_speed, 2011
+Retrieved data for wind_speed, 2012
+Retrieved data for wind_speed, 2013
+Failed to fetch data: 403 for wind_speed, 2014
+Failed to fetch data: 403 for wind_speed, 2015
+Failed to fetch data: 403 for wind_speed, 2016
+Failed to fetch data: 403 for wind_speed, 2017
+Failed to fetch data: 403 for wind_speed, 2018
+Failed to fetch data: 403 for wind_speed, 2019
+Failed to fetch data: 403 for wind_speed, 2020
+Failed to fetch data: 403 for wind_speed, 2021
+Failed to fetch data: 403 for wind_speed, 2022
+Failed to fetch data: 403 for wind_speed, 2023
+- - - - - relative_humidity - - - - -
+Failed to fetch data: 412 for relative_humidity, 2000
+Failed to fetch data: 412 for relative_humidity, 2001
+Failed to fetch data: 412 for relative_humidity, 2002
+Failed to fetch data: 412 for relative_humidity, 2003
+Failed to fetch data: 412 for relative_humidity, 2004
+Failed to fetch data: 412 for relative_humidity, 2005
+Failed to fetch data: 412 for relative_humidity, 2006
+Failed to fetch data: 412 for relative_humidity, 2007
+Failed to fetch data: 412 for relative_humidity, 2008
+Failed to fetch data: 412 for relative_humidity, 2009
+Failed to fetch data: 412 for relative_humidity, 2010
+Failed to fetch data: 412 for relative_humidity, 2011
+Failed to fetch data: 412 for relative_humidity, 2012
+Failed to fetch data: 412 for relative_humidity, 2013
+Failed to fetch data: 403 for relative_humidity, 2014
+Failed to fetch data: 403 for relative_humidity, 2015
+Failed to fetch data: 403 for relative_humidity, 2016
+Failed to fetch data: 403 for relative_humidity, 2017
+Failed to fetch data: 403 for relative_humidity, 2018
+Failed to fetch data: 403 for relative_humidity, 2019
+Failed to fetch data: 403 for relative_humidity, 2020
+Failed to fetch data: 403 for relative_humidity, 2021
+Failed to fetch data: 403 for relative_humidity, 2022
+Failed to fetch data: 403 for relative_humidity, 2023
+- - - - - air_temperature - - - - -
+Failed to fetch data: 412 for air_temperature, 2000
+Failed to fetch data: 412 for air_temperature, 2001
+Failed to fetch data: 412 for air_temperature, 2002
+Failed to fetch data: 412 for air_temperature, 2003
+Failed to fetch data: 412 for air_temperature, 2004
+Failed to fetch data: 412 for air_temperature, 2005
+Failed to fetch data: 412 for air_temperature, 2006
+Failed to fetch data: 412 for air_temperature, 2007
+Failed to fetch data: 412 for air_temperature, 2008
+Failed to fetch data: 412 for air_temperature, 2009
+Retrieved data for air_temperature, 2010
+Retrieved data for air_temperature, 2011
+Retrieved data for air_temperature, 2012
+Retrieved data for air_temperature, 2013
+Failed to fetch data: 403 for air_temperature, 2014
+Failed to fetch data: 403 for air_temperature, 2015
+Failed to fetch data: 403 for air_temperature, 2016
+Failed to fetch data: 403 for air_temperature, 2017
+Failed to fetch data: 403 for air_temperature, 2018
+Failed to fetch data: 403 for air_temperature, 2019
+Failed to fetch data: 403 for air_temperature, 2020
+Failed to fetch data: 403 for air_temperature, 2021
+Failed to fetch data: 403 for air_temperature, 2022
+Failed to fetch data: 403 for air_temperature, 2023
